@@ -1,0 +1,17 @@
+azureuser@ubuntu-jpe:~$ curl -I erinsnow.github.io
+HTTP/1.1 301 Moved Permanently
+Server: GitHub.com
+Content-Type: text/html
+Location: http://pcat.life/
+X-GitHub-Request-Id: 2BF9481E:370C:8930CF:562B48F6
+Content-Length: 178
+Accept-Ranges: bytes
+Date: Sat, 24 Oct 2015 09:02:36 GMT
+Via: 1.1 varnish
+Age: 54
+Connection: keep-alive
+X-Served-By: cache-nrt6130-NRT
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1445677356.846925,VS0,VE0
+Vary: Accept-Encoding
